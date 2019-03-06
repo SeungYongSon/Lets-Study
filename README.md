@@ -712,6 +712,8 @@
 - [안드로이드의 MVC, MVP, MVVM 종합 안내서](https://academy.realm.io/kr/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/?fbclid=IwAR0aQa3j7nSTgB5TMsFt33iviV8ReW0oGvkvVBucWrBcgV0v6XWsKwjljhI)
 - [AWS codebuild + codecov 로 저렴하게 android CI 구축하기](https://medium.com/@SungMinLee/aws-codebuild-codecov-%EB%A1%9C-%EC%A0%80%EB%A0%B4%ED%95%98%EA%B2%8C-android-ci-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-2a209651c4f7)
 - [클린 아키텍처와 함께하는 배민앱 (Android)](http://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html?fbclid=IwAR3GrdvlbN0uCcZJsGgh3jUpv6vF2T0rCBEZ7EdUIy-J3Hogio7XjhXr6jQ)
+- [DI(Dependency Injection) 와 Dagger2](https://cmcmcmcm.blog/2017/07/27/didependency-injection-%EC%99%80-dagger2)
+- [Dagger2 를 이용한 안드로이드에서의 DI 구현](https://cmcmcmcm.blog/2017/08/15/dagger2-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%97%90%EC%84%9C%EC%9D%98-di-%EA%B5%AC%ED%98%84/)
 ### iOS
 
 ## 웹 프론트엔드
